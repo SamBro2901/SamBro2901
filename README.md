@@ -24,7 +24,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://novatorem.sambro2901.vercel.app/api/spotify-playing" alt="SamBro2901 Spotify Playing" width="350" />](https://open.spotify.com/user/97d9649907da49d383f35cf03dc3a177)
+[<img src="https://novatorem.sambro2901.vercel.app/api/spotify-playing" alt="SamBro2901 Spotify Playing" width="350" />](https://open.spotify.com/user/97d9649907da49d383f35cf03dc3a177)
 
 ### Connect with me:
 
