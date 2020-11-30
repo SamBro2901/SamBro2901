@@ -32,14 +32,14 @@
   
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
-<details/>
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="SamBro2901's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamBro2901&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-<details/>
+</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
