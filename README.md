@@ -11,9 +11,20 @@
 - 🥅 2020 Goals: Learn and absorb many more languages and frameworks
 - ⚡ Fun fact: I love sci-fi movies and gaming
 
+### Language and Tools:
+
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img align="left" alt="HTML 5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img align="left" alt="CSS 3" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
+<img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
+<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://https://novatorem.sambro2901.vercel.app/api/spotify-playing" alt="SamBro2901 Spotify Playing" width="350" />](https://open.spotify.com/user/97d9649907da49d383f35cf03dc3a177)
 
 ### Connect with me:
 
