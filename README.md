@@ -22,9 +22,11 @@
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
 <img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
 
+<br />
+
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.sambro2901.vercel.app/api/spotify-playing" alt="SamBro2901 Spotify Playing" width="350" />](https://open.spotify.com/user/97d9649907da49d383f35cf03dc3a177)
+[<img src="https://novatorem.sambro2901.vercel.app/api/spotify" alt="SamBro2901 Spotify Playing" width="350" />](https://open.spotify.com/user/97d9649907da49d383f35cf03dc3a177)
 
 ### Connect with me:
 
@@ -37,13 +39,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
