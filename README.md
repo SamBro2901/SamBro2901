@@ -1,6 +1,6 @@
 ### Hi there, I'm Samanth 👋
 
-[![Website](https://img.shields.io/website?label=SamBro2901.com&style=for-the-badge&url=https%3A%2F%2Fsambro2901.com)](https://SamBro2901.com)
+[![Website](https://img.shields.io/website?label=SamBro2901.github.io&style=for-the-badge&url=https%3A%2F%2Fsambro2901github.io)](https://SamBro2901.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SamBro2901?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSamBro2901&screen_name=SamBro2901)
 
 ## I'm an Electronics Engineering Student!
