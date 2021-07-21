@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on my own Discord Bots
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn and absorb many more languages and frameworks
+- 🥅 2021 Goals: Learn and absorb many more languages and frameworks
 - ⚡ Fun fact: I love sci-fi movies and gaming
 
 ### Language and Tools:
