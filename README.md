@@ -3,13 +3,14 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=SamBro2901.github.io&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fsambro2901.github.io%2F)](https://sambro2901.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SamBro2901?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSamBro2901&screen_name=SamBro2901)
 
-## I'm an Electronics Engineering Student!
+## I'm pursuing a master's degree in Information Technology (spec Computer Hardware and Software Engineering)!
 
-- 🔭 I'm currently working on my own Discord bots and android apps
+- 📊 I'm passionate about Data Analytics and work on several projects revolving around data 
+- 🔭 I have extensively worked on hosting and programming Discord bots and developing Android apps
 - 🌱 I’m currently **_trying_** to learning everything 😉
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn and absorb many more languages and frameworks
-- ⚡ Fun fact: I love sci-fi movies, gaming and thinking out-of-the-box!
+- 🥅 2025 Goals: Learn and absorb many more languages and frameworks
+- ⚡ Fun fact: I love sci-fi movies, gaming, and thinking out of the box!
 
 ### Language and Tools:
 
