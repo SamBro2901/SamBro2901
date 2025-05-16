@@ -14,7 +14,7 @@
 
 ### Language and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,firebase,js,discordjs,nodejs,MongoDB,heroku,postman,vercel,java,py,pycharm,sklearn,tensorflow,HTML,CSS,raspberrypi,git,github,gitlab,anaconda,arduino&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,firebase,js,discordjs,nodejs,mongodb,heroku,postman,vercel,java,py,pycharm,sklearn,tensorflow,html,css,raspberrypi,git,github,gitlab,anaconda,arduino,notion&perline=8&theme=light)](https://skillicons.dev)
 
 <br />
 <br />
